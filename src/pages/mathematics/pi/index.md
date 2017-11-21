@@ -3,13 +3,8 @@ title: PI
 ---
 ## PI
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/pi/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+`PI = 𝜋 = 3.14159265359`
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+PI is a mathematical constant whose value is approximately equal to 3.14159265359. It is defined as the `ratio of circumference of a circle to its diameter`. The PI is represented by a greek letter `𝜋` and is widely used in Physics and Mathematics.
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
-
+The ratio 𝜋 = circumference/diameter always remains the same, regardless of the size of a circle. For example, even if we take a new circle of twice the diameter of a previous circle, then the circumference of that new circle will be exactly double of the previous one preserving the value of 𝜋 to be constant. 
